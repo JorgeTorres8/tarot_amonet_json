@@ -1,0 +1,158 @@
+{
+    "lists" : [
+        {
+            "id": 1,
+            "name": "Lectura concreta",
+            "url": "lectura-concreta",
+            "order": "01",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814048/medium_project11_42a0423078.png"
+        },
+        {
+            "id": 2,
+            "name": "Lectura general",
+            "url": "lectura-general",
+            "order": "02",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814077/medium_project12_b976638b49.png"
+        },
+        {
+            "id": 3,
+            "name": "Lectura del ausente",
+            "url": "lectura-ausente",
+            "order": "03",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692813722/medium_project5_2b91dd30a6.png"
+        },
+        {
+            "id": 4,
+            "name": "Lectura del si y del no",
+            "url": "lectura-si-no",
+            "order": "04",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814113/medium_project14_28a0ef2b5d.png"
+        },
+        {
+            "id": 5,
+            "name": "Lectura de la cruz mágica",
+            "url": "lectura-cruz-magica",
+            "order": "05",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814136/medium_project2_19daa6584e.png"
+        },
+        {
+            "id": 6,
+            "name": "Lectura karmica",
+            "url": "lectura-karmica",
+            "order": "06",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814251/medium_project15_39ce4fb3e6.png"
+        },
+        {
+            "id": 7,
+            "name": "Lectura de las 12 casas",
+            "url": "lectura-12-casas",
+            "order": "07",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814306/medium_project1_5ba94937e8.png"
+        },
+        {
+            "id": 8,
+            "name": "Lectura de la vida",
+            "url": "lectura-vida",
+            "order": "08",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814395/medium_project10_ba614eac6b.png"
+        },
+        {
+            "id": 9,
+            "name": "Lectura de los sentimientos",
+            "url": "lectura-sentimientos",
+            "order": "09",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814428/medium_project7_0943a832f7.png"
+        },
+        {
+            "id": 10,
+            "name": "Lectura de la compatibilidad",
+            "url": "lectura-compatibilidad",
+            "order": "10",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814457/medium_project3_450cdc8899.png"
+        },
+        {
+            "id": 11,
+            "name": "Lectura del autoconocimiento",
+            "url": "lectura-autoconocimiento",
+            "order": "11",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814528/medium_project8_6b11932355.png"
+        },
+        {
+            "id": 12,
+            "name": "Lectura de las 13 cartas",
+            "url": "lectura-13-cartas",
+            "order": "12",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814558/medium_project6_7629d37bdf.png"
+        },
+        {
+            "id": 13,
+            "name": "Lectura de la cruz celta",
+            "url": "lectura-cruz-celta",
+            "order": "13",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814595/medium_project9_a4a9cc14f3.png"
+        },
+        {
+            "id": 14,
+            "name": "Lectura de la hechicería",
+            "url": "lectura-hechiceria",
+            "order": "14",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        },
+        {
+            "id": 15,
+            "name": "Lectura del embarazo",
+            "url": "lectura-embarazo",
+            "order": "15",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        },
+        {
+            "id": 16,
+            "name": "Lectura de la salud",
+            "url": "lectura-salud",
+            "order": "16",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        },
+        {
+            "id": 17,
+            "name": "Lectura de la infidelidad",
+            "url": "lectura-infidelidad",
+            "order": "17",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        },
+        {
+            "id": 18,
+            "name": "Lectura de la pareja",
+            "url": "lectura-pareja",
+            "order": "18",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        },
+        {
+            "id": 19,
+            "name": "Lectura de la boda o convivencia",
+            "url": "lectura-convivencia",
+            "order": "19",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        },
+        {
+            "id": 20,
+            "name": "Lectura del sexo en pareja",
+            "url": "lectura-sexo",
+            "order": "20",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        },
+        {
+            "id": 21,
+            "name": "Lectura del mes/dia/semana",
+            "url": "lectura-fecha",
+            "order": "21",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        },
+        {
+            "id": 22,
+            "name": "Lectura para saber si la persona es para mi",
+            "url": "lectura-persona",
+            "order": "22",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        }
+    ]
+}
