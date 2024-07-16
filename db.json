@@ -25,7 +25,7 @@
             "duration": "30 min",
             "url": "lectura-ausente",
             "order": "03",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692813722/medium_project5_2b91dd30a6.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165386/Tarot%20Amonet/a2j3ewsyqwgckckwuhnu.png"
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "duration": "30 min",
             "url": "lectura-si-no",
             "order": "04",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814113/medium_project14_28a0ef2b5d.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165386/Tarot%20Amonet/kfjkv6gtwqalfbkwkf0c.png"
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "duration": "1 hora",
             "url": "lectura-cruz-magica",
             "order": "05",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814136/medium_project2_19daa6584e.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165386/Tarot%20Amonet/pzsohgoquztx7mqtbqw2.png"
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@
             "duration": "45 min",
             "url": "lectura-karmica",
             "order": "06",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814251/medium_project15_39ce4fb3e6.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165386/Tarot%20Amonet/i8hpe7wvsht0cokb61af.png"
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@
             "duration": "30 min",
             "url": "lectura-12-casas",
             "order": "07",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814306/medium_project1_5ba94937e8.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165386/Tarot%20Amonet/b2jqjavptnu8hxg6mu57.png"
         },
         {
             "id": 8,
@@ -70,7 +70,7 @@
             "duration": "30 min",
             "url": "lectura-vida",
             "order": "08",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814395/medium_project10_ba614eac6b.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165387/Tarot%20Amonet/s3gqp2uay8hospau8bks.png"
         },
         {
             "id": 9,
@@ -79,7 +79,7 @@
             "duration": "45 min",
             "url": "lectura-sentimientos",
             "order": "09",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814428/medium_project7_0943a832f7.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165387/Tarot%20Amonet/hydzzaioinnkhordviwu.png"
         },
         {
             "id": 10,
@@ -97,7 +97,7 @@
             "duration": "30 min",
             "url": "lectura-autoconocimiento",
             "order": "11",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814528/medium_project8_6b11932355.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165387/Tarot%20Amonet/rqhufjlg1turn1ghelbh.png"
         },
         {
             "id": 12,
@@ -106,7 +106,7 @@
             "duration": "1 hora",
             "url": "lectura-13-cartas",
             "order": "12",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814558/medium_project6_7629d37bdf.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165387/Tarot%20Amonet/aiupgesmyngm7yqmcseu.png"
         },
         {
             "id": 13,
@@ -115,7 +115,7 @@
             "duration": "30 min",
             "url": "lectura-cruz-celta",
             "order": "13",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814595/medium_project9_a4a9cc14f3.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165387/Tarot%20Amonet/xr7n64tssel9z6fslbjx.png"
         },
         {
             "id": 14,
@@ -124,7 +124,7 @@
             "duration": "1 hora",
             "url": "lectura-hechiceria",
             "order": "14",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165387/Tarot%20Amonet/ktbcg2zlsipqckquvyiu.png"
         },
         {
             "id": 15,
@@ -133,7 +133,7 @@
             "duration": "45 min",
             "url": "lectura-embarazo",
             "order": "15",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165388/Tarot%20Amonet/t2dejogwqbzed7o08hgs.png"
         },
         {
             "id": 16,
@@ -142,7 +142,7 @@
             "duration": "30 min",
             "url": "lectura-salud",
             "order": "16",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165388/Tarot%20Amonet/j09lyzig7o7sz0nfsjej.png"
         },
         {
             "id": 17,
@@ -151,7 +151,7 @@
             "duration": "30 min",
             "url": "lectura-infidelidad",
             "order": "17",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165388/Tarot%20Amonet/yumthpurk6z8mozjrweb.png"
         },
         {
             "id": 18,
@@ -160,7 +160,7 @@
             "duration": "45 min",
             "url": "lectura-pareja",
             "order": "18",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165388/Tarot%20Amonet/zbt3wjqby5jj18zulemq.png"
         },
         {
             "id": 19,
@@ -169,7 +169,7 @@
             "duration": "45 min",
             "url": "lectura-convivencia",
             "order": "19",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165389/Tarot%20Amonet/ru9bgbrkltybz9sbhhus.png"
         },
         {
             "id": 20,
@@ -178,7 +178,7 @@
             "duration": "30 min",
             "url": "lectura-sexo",
             "order": "20",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165389/Tarot%20Amonet/sdgsko88wfrav6duoqlb.png"
         },
         {
             "id": 21,
@@ -187,7 +187,7 @@
             "duration": "1 hora",
             "url": "lectura-fecha",
             "order": "21",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165389/Tarot%20Amonet/zc3zx8ksxmosa0qncawg.png"
         },
         {
             "id": 22,
@@ -196,7 +196,7 @@
             "duration": "30 min",
             "url": "lectura-persona",
             "order": "22",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721165389/Tarot%20Amonet/xe43epojljja6ek1ggbc.png"
         }
     ]
 }
