@@ -4,7 +4,6 @@
             "id": 1,
             "name": "Lectura concreta",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-concreta",
             "order": "01",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_1.png"
@@ -13,7 +12,6 @@
             "id": 2,
             "name": "Lectura general",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "1 H",
             "url": "lectura-general",
             "order": "02",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_2.png"
@@ -22,7 +20,6 @@
             "id": 3,
             "name": "Lectura del ausente",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-ausente",
             "order": "03",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_3.png"
@@ -31,7 +28,6 @@
             "id": 4,
             "name": "Lectura del si y del no",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-si-no",
             "order": "04",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_4.png"
@@ -40,7 +36,6 @@
             "id": 5,
             "name": "Lectura de la cruz mágica",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "1 H",
             "url": "lectura-cruz-magica",
             "order": "05",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_5.png"
@@ -49,7 +44,6 @@
             "id": 6,
             "name": "Lectura karmica",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "45 m",
             "url": "lectura-karmica",
             "order": "06",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_6.png"
@@ -58,7 +52,6 @@
             "id": 7,
             "name": "Lectura de las 12 casas",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-12-casas",
             "order": "07",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_7.png"
@@ -67,7 +60,6 @@
             "id": 8,
             "name": "Lectura de la vida",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-vida",
             "order": "08",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_8.png"
@@ -76,7 +68,6 @@
             "id": 9,
             "name": "Lectura de los sentimientos",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "45 m",
             "url": "lectura-sentimientos",
             "order": "09",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_9.png"
@@ -85,7 +76,6 @@
             "id": 10,
             "name": "Lectura de la compatibilidad",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-compatibilidad",
             "order": "10",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_10.png"
@@ -94,7 +84,6 @@
             "id": 11,
             "name": "Lectura del autoconocimiento",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-autoconocimiento",
             "order": "11",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_11.png"
@@ -103,25 +92,22 @@
             "id": 12,
             "name": "Lectura de las 13 cartas",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "1 H",
             "url": "lectura-13-cartas",
             "order": "12",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_12.png"
         },
         {
             "id": 13,
-            "name": "Lectura de la cruz celta",
+            "name": "Lectura Recuperarse de una Ruptura",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
-            "url": "lectura-cruz-celta",
+            "url": "lectura-ruptura",
             "order": "13",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_13.png"
         },
         {
             "id": 14,
-            "name": "Lectura de la hechicería",
+            "name": "Lectura para saber si me hicieron hechicería",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "1 H",
             "url": "lectura-hechiceria",
             "order": "14",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_14.png"
@@ -130,7 +116,6 @@
             "id": 15,
             "name": "Lectura del embarazo",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "45 m",
             "url": "lectura-embarazo",
             "order": "15",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_15.png"
@@ -139,7 +124,6 @@
             "id": 16,
             "name": "Lectura de la salud",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-salud",
             "order": "16",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_16.png"
@@ -148,7 +132,6 @@
             "id": 17,
             "name": "Lectura de la infidelidad",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-infidelidad",
             "order": "17",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_17.png"
@@ -157,7 +140,6 @@
             "id": 18,
             "name": "Lectura de la pareja",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "45 m",
             "url": "lectura-pareja",
             "order": "18",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_18.png"
@@ -166,7 +148,6 @@
             "id": 19,
             "name": "Lectura de la boda o convivencia",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "45 m",
             "url": "lectura-convivencia",
             "order": "19",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_19.png"
@@ -175,28 +156,33 @@
             "id": 20,
             "name": "Lectura del sexo en pareja",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-sexo",
             "order": "20",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_20.png"
         },
         {
             "id": 21,
-            "name": "Lectura del mes/dia/semana",
+            "name": "¿Por qué se rompió esta Relación?",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "1 H",
-            "url": "lectura-fecha",
+            "url": "lectura-relacion",
             "order": "21",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_21.png"
         },
         {
             "id": 22,
-            "name": "Lectura para saber si la persona es para mi",
+            "name": "Lectura para saber si es para mí",
             "description": "Esta es una pequeña descripción resumida de la lectura",
-            "duration": "30 m",
             "url": "lectura-persona",
             "order": "22",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_22.png"
+        },
+        {
+            "id": 23,
+            "name": "Trabajos",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "trabajos",
+            "order": "23",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1722896544/TarotAmonet/lista_23.png"
         }
     ]
 }
