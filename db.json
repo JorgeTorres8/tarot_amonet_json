@@ -2,7 +2,7 @@
     "lists" : [
         {
             "id": 1,
-            "name": "Lectura concreta",
+            "name": "Lectura Concreta",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-concreta",
             "order": "01",
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "name": "Lectura general",
+            "name": "Lectura General",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-general",
             "order": "02",
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "name": "Lectura del ausente",
+            "name": "Lectura del Ausente",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-ausente",
             "order": "03",
@@ -26,7 +26,7 @@
         },
         {
             "id": 4,
-            "name": "Lectura del si y del no",
+            "name": "Lectura del Si y del No",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-si-no",
             "order": "04",
@@ -34,7 +34,7 @@
         },
         {
             "id": 5,
-            "name": "Lectura de la cruz mágica",
+            "name": "Lectura de la Cruz Mágica",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-cruz-magica",
             "order": "05",
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "name": "Lectura karmica",
+            "name": "Lectura Kármica",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-karmica",
             "order": "06",
@@ -50,7 +50,7 @@
         },
         {
             "id": 7,
-            "name": "Lectura de las 12 casas",
+            "name": "Lectura de las 12 Casas",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-12-casas",
             "order": "07",
@@ -58,7 +58,7 @@
         },
         {
             "id": 8,
-            "name": "Lectura de la vida",
+            "name": "Lectura de la Vida",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-vida",
             "order": "08",
@@ -66,7 +66,7 @@
         },
         {
             "id": 9,
-            "name": "Lectura de los sentimientos",
+            "name": "Lectura de los Sentimientos",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-sentimientos",
             "order": "09",
@@ -74,7 +74,7 @@
         },
         {
             "id": 10,
-            "name": "Lectura de la compatibilidad",
+            "name": "Lectura de la Compatibilidad",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-compatibilidad",
             "order": "10",
@@ -82,7 +82,7 @@
         },
         {
             "id": 11,
-            "name": "Lectura del autoconocimiento",
+            "name": "Lectura del Autoconocimiento",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-autoconocimiento",
             "order": "11",
@@ -90,7 +90,7 @@
         },
         {
             "id": 12,
-            "name": "Lectura de las 13 cartas",
+            "name": "Lectura de las 13 Cartas",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-13-cartas",
             "order": "12",
@@ -106,7 +106,7 @@
         },
         {
             "id": 14,
-            "name": "Lectura para saber si me hicieron hechicería",
+            "name": "Lectura para saber si me Hechizaron",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-hechiceria",
             "order": "14",
@@ -114,7 +114,7 @@
         },
         {
             "id": 15,
-            "name": "Lectura del embarazo",
+            "name": "Lectura del Embarazo",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-embarazo",
             "order": "15",
@@ -122,7 +122,7 @@
         },
         {
             "id": 16,
-            "name": "Lectura de la salud",
+            "name": "Lectura de la Salud",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-salud",
             "order": "16",
@@ -130,7 +130,7 @@
         },
         {
             "id": 17,
-            "name": "Lectura de la infidelidad",
+            "name": "Lectura de la Infidelidad",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-infidelidad",
             "order": "17",
@@ -138,7 +138,7 @@
         },
         {
             "id": 18,
-            "name": "Lectura de la pareja",
+            "name": "Lectura de la Pareja",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-pareja",
             "order": "18",
@@ -146,7 +146,7 @@
         },
         {
             "id": 19,
-            "name": "Lectura de la boda o convivencia",
+            "name": "Lectura de la Boda o Convivencia",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-convivencia",
             "order": "19",
@@ -154,7 +154,7 @@
         },
         {
             "id": 20,
-            "name": "Lectura del sexo en pareja",
+            "name": "Lectura del Sexo en Pareja",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-sexo",
             "order": "20",
@@ -162,7 +162,7 @@
         },
         {
             "id": 21,
-            "name": "¿Por qué se rompió esta Relación?",
+            "name": "Lectura ¿Por qué se rompió esta Relación?",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-relacion",
             "order": "21",
@@ -170,7 +170,7 @@
         },
         {
             "id": 22,
-            "name": "Lectura para saber si es para mí",
+            "name": "Lectura para saber si es para Mí",
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "lectura-persona",
             "order": "22",
