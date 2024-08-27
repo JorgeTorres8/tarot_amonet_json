@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Lectura Concreta",
-            "description": "Resuelve tus dudas específicas con claridad y precisión, obteniendo respuestas directas.",
+            "description": "Resuelve tus dudas específicas con precisión, obteniendo respuestas directas.",
             "url": "lectura-concreta",
             "order": "01",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_1.png"
@@ -43,7 +43,7 @@
         {
             "id": 6,
             "name": "Lectura del Ausente",
-            "description": "Conecta con alguien que no está presente y recibe mensajes importantes.",
+            "description": "Conecta con alguien que no está presente, recibe mensajes importantes.",
             "url": "lectura-ausente",
             "order": "06",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_6.png"
@@ -67,7 +67,7 @@
         {
             "id": 9,
             "name": "Lectura para Saber si Me Hicieron Hechicería",
-            "description": "Evalúa la compatibilidad y el potencial de tu relación amorosa.",
+            "description": "Detecta influencias mágicas y recibe consejos para protegerte.",
             "url": "lectura-hechiceria",
             "order": "09",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_9.png"
@@ -147,7 +147,7 @@
         {
             "id": 19,
             "name": "Lectura de la Pareja",
-            "description": "Mejora la relación con tu pareja y fortalece vuestro vínculo.",
+            "description": "Mejora la relación con tu pareja y fortalece el vínculo.",
             "url": "lectura-pareja",
             "order": "19",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_19.png"
