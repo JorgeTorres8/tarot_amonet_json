@@ -2,179 +2,179 @@
     "lists" : [
         {
             "id": 1,
-            "name": "Lectura Concreta",
-            "description": "Resuelve tus dudas específicas con precisión, obteniendo respuestas directas.",
-            "url": "lectura-concreta",
-            "order": "01",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_1.png"
-        },
-        {
-            "id": 2,
             "name": "Lectura del Pasado, Presente y Futuro",
             "description": "Explora cómo tu pasado influye en tu presente y qué te depara el futuro.",
             "url": "lectura-tiempo",
-            "order": "02",
+            "order": "1",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_2.png"
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Lectura del Si y No",
             "description": "Obtén respuestas claras y directas a tus preguntas más urgentes.",
             "url": "lectura-si-no",
-            "order": "03",
+            "order": "02",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_3.png"
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Lectura ¿Por qué se rompió esta Relación?",
             "description": "Descubre las razones detrás de la ruptura y cómo sanar.",
             "url": "lectura-relacion",
-            "order": "04",
+            "order": "03",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_4.png"
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Lectura Recuperarse de una Ruptura",
             "description": "Encuentra paz y guía para superar una separación amorosa.",
             "url": "lectura-ruptura",
-            "order": "05",
+            "order": "04",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_5.png"
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "Lectura del Ausente",
             "description": "Conecta con alguien que no está presente, recibe mensajes importantes.",
             "url": "lectura-ausente",
-            "order": "06",
+            "order": "05",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_6.png"
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "Lectura del Embarazo",
             "description": "Obtén información y guía sobre tu embarazo y el futuro de tu bebé.",
             "url": "lectura-embarazo",
-            "order": "07",
+            "order": "06",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_7.png"
         },
         {
-            "id": 8,
+            "id": 7,
             "name": "Lectura para saber si la Persona es para Mí",
             "description": "Evalúa la compatibilidad y el potencial de tu relación amorosa.",
             "url": "lectura-persona",
-            "order": "08",
+            "order": "07",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_8.png"
         },
         {
-            "id": 9,
+            "id": 8,
             "name": "Lectura para Saber si Me Hicieron Hechicería",
             "description": "Detecta influencias mágicas y recibe consejos para protegerte.",
             "url": "lectura-hechiceria",
-            "order": "09",
+            "order": "08",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_9.png"
         },
         {
-            "id": 10,
+            "id": 9,
             "name": "Lectura del Dinero",
             "description": "Mejora tu situación financiera con consejos y predicciones precisas.",
             "url": "lectura-dinero",
-            "order": "10",
+            "order": "09",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_10.png"
         },
         {
-            "id": 11,
+            "id": 10,
             "name": "Lectura de las Decisiones",
             "description": "Toma decisiones importantes con confianza y claridad.",
             "url": "lectura-decisiones",
-            "order": "11",
+            "order": "10",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_11.png"
         },
         {
-            "id": 12,
+            "id": 11,
             "name": "Lectura del Sexo en Pareja",
             "description": "Mejora la intimidad y la conexión sexual con tu pareja.",
             "url": "lectura-sexo",
-            "order": "12",
+            "order": "11",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_12.png"
         },
         {
-            "id": 13,
+            "id": 12,
             "name": "Lectura del Chequeo Espiritual",
             "description": "Evalúa tu bienestar espiritual y recibe guía para tu crecimiento.",
             "url": "lectura-espiritual",
-            "order": "13",
+            "order": "12",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_13.png"
         },
         {
-            "id": 14,
+            "id": 13,
             "name": "Lectura de las 12 Casas",
             "description": "Obtén una visión completa de tu vida y tus desafíos.",
             "url": "lectura-general",
-            "order": "14",
+            "order": "13",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_14.png"
         },
         {
-            "id": 15,
+            "id": 14,
             "name": "Lectura de la Salud",
             "description": "Conoce tu estado de salud y recibe consejos para mejorarlo.",
             "url": "lectura-salud",
-            "order": "15",
+            "order": "14",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_15.png"
         },
         {
-            "id": 16,
+            "id": 15,
             "name": "¿Voy a Encontrar el Verdadero Amor?",
             "description": "Descubre si el verdadero amor está en tu futuro cercano.",
             "url": "lectura-amor",
-            "order": "16",
+            "order": "15",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_16.png"
         },
         {
-            "id": 17,
+            "id": 16,
             "name": "Lectura de los Sentimientos",
             "description": "Explora tus emociones y recibe guía para manejarlas.",
             "url": "lectura-sentimientos",
-            "order": "17",
+            "order": "16",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_17.png"
         },
         {
-            "id": 18,
+            "id": 17,
             "name": "Lectura de la Infidelidad",
             "description": "Investiga posibles infidelidades y recibe claridad sobre tu relación.",
             "url": "lectura-infidelidad",
-            "order": "18",
+            "order": "17",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_18.png"
         },
         {
-            "id": 19,
+            "id": 18,
             "name": "Lectura de la Pareja",
             "description": "Mejora la relación con tu pareja y fortalece el vínculo.",
             "url": "lectura-pareja",
-            "order": "19",
+            "order": "18",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_19.png"
         },
         {
-            "id": 20,
+            "id": 19,
             "name": "Lectura de la Compatibilidad",
             "description": "Evalúa la compatibilidad con tu pareja y descubre áreas de mejora.",
             "url": "lectura-compatibilidad",
-            "order": "20",
+            "order": "19",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_20.png"
         },
         {
-            "id": 21,
+            "id": 20,
             "name": "¿Se puede Arreglar esta Relación?",
             "description": "Analiza las posibilidades de reconciliación y cómo lograrla.",
             "url": "lectura-arreglar-relacion",
-            "order": "21",
+            "order": "20",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_21.png"
         },
         {
-            "id": 22,
+            "id": 21,
             "name": "Hijos: Amor de Pareja",
             "description": "Evalúa si el amor juvenil de tu hijo/a es beneficioso.",
             "url": "lectura-amor-joven",
-            "order": "22",
+            "order": "21",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_22.png"
+        },
+        {
+            "id": 22,
+            "name": "Lectura Concreta",
+            "description": "Resuelve tus dudas específicas con precisión, obteniendo respuestas directas.",
+            "url": "lectura-concreta",
+            "order": "22",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_1.png"
         },
         {
             "id": 23,
